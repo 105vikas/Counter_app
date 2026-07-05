@@ -7,7 +7,7 @@
   align-items: center;
   font-family: 12px;
   background-color: rgb(227, 213, 213);
-
+  overflow: hidden;
 }
 
 .heading {
